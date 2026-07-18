@@ -25,7 +25,8 @@ const tasks = [];
         let taskList = "U sizning taskingiz";
         for(let i = 0; i < task.length; i++){
             const task =tasks [i];
-            taskList += `id: ${task.id}, title: ${task.title},`
+            taskList += `id: ${task.id}, title: ${task.title}, completed: ${task.completed ? "Yes" : "No"}`
+            alert(taskList);
         }
     }
  }
