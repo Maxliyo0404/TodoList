@@ -18,6 +18,13 @@ const tasks = [];
     alert("Bo'sh bo'lishi mumkin emas")
   }
  }
+ const viewTasks = () =>{
+    if(task.length === 0){
+        alert("xatolik");
+    } else{
+        let taskList =
+    }
+ }
    function newList(){
     let tanlov;
      do{
@@ -32,7 +39,7 @@ const tasks = [];
             `);
             switch (tanlov){
                 case "1":
-                    alert("Qoshish");
+                   addTask();
                     break;
                 case "2":
                     alert("Ko'rish");
