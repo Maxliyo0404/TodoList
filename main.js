@@ -6,7 +6,7 @@ const  task = "TodoListga"
    function newList(){
     let tanlov;
      do{
-        tanlov = prompt(`Hush kelibsan `)
+        tanlov = prompt(`Hush kelibsan ${task}`)
      }
    }
  newTodo();
