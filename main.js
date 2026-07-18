@@ -1,5 +1,5 @@
  
 
  function newTodo(){
-    alert
+    alert("Hush kelibsiz !");
  }
