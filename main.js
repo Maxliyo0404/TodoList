@@ -14,7 +14,6 @@ const  task = "TodoListga"
             4.  O'chirish;
             5.  Malumotni ko'rish;
             6.  Dasturni yopish;
-            
             `)
         
      }
