@@ -10,6 +10,8 @@ const  task = "TodoListga"
             Tanlov qiling;
             1.  Qo'shish;
             2.  Ko'rish;
+            3.  O'zgartirish;
+            
             
             `)
         
