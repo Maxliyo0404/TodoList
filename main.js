@@ -1,6 +1,6 @@
  
 const  task = "TodoListga"
  function newTodo(){
-    alert(`Hush kelibsiz !`);
+    alert(`Hush kelibsiz ${task} !`);
  }
  newTodo();
