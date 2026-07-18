@@ -5,7 +5,12 @@ const tasks = [];
     alert(`Hush kelibsiz ${task} !`);
  }
  const addTask = ()=>{
-  const taskTitle = prompt("TaskTitle bosgin ")
+  const taskTitle = prompt("TaskTitle bosgin !");
+  if(taskTitle){
+    const newTitle = {
+        
+    }
+  }
  }
    function newList(){
     let tanlov;
