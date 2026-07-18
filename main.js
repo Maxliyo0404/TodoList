@@ -32,7 +32,7 @@ const  task = "TodoListga"
                     alert("Malumotni ko'rish");
                     break;
                 case "1":
-                    alert("Qoshish");
+                    alert("Xayr");
                     break;
                     
 
