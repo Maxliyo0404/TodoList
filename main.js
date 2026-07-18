@@ -23,7 +23,7 @@ const  task = "TodoListga"
                     alert("Ko'rish");
                     break;
                 case "3":
-                    alert("Qosish");
+                    alert("O'zgartirish");
                     break;
                 case "1":
                     alert("Qoshish");
