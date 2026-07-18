@@ -1,8 +1,10 @@
  
 const  task = "TodoListga"
+const tasks = [];
  function newTodo(){
     alert(`Hush kelibsiz ${task} !`);
  }
+ co
    function newList(){
     let tanlov;
      do{
