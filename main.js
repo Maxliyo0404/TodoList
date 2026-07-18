@@ -11,7 +11,8 @@ const tasks = [];
         id:task.length +1,
         title: taskTitle,
         completed: false
-    }
+    };
+    task.push(newTitle)
   }
  }
    function newList(){
@@ -51,7 +52,7 @@ const tasks = [];
      } while( tanlov !== "6");
    }
  newTodo();
- newList();
+
 
 
  
