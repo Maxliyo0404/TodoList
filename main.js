@@ -4,8 +4,8 @@ const tasks = [];
  function newTodo(){
     alert(`Hush kelibsiz ${task} !`);
  }
- const addTask(){
-    
+ const addTask()=>{
+const taskTitle = prompt("")
  }
    function newList(){
     let tanlov;
