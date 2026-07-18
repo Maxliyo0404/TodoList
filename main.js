@@ -35,11 +35,12 @@ const  task = "TodoListga"
                     alert("Xayr");
                     break;
                     default:
-                        alert("Noto'g'ri tanlov")
-                    
-
-            }
-        
-     }
+                        alert("Noto'g'ri tanlov");
+            } 
+     } while( tanlov !== "6");
    }
  newTodo();
+ newList();
+
+
+ 
