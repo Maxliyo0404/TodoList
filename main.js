@@ -5,6 +5,8 @@ const  task = "TodoListga"
  }
    function newList(){
     let tanlov;
-    
+     do{
+        
+     }
    }
  newTodo();
