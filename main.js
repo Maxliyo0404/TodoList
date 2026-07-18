@@ -12,7 +12,10 @@ const tasks = [];
         title: taskTitle,
         completed: false
     };
-    task.push(newTitle)
+    task.push(newTitle);
+    alert(`Task ${taskTitle} qo'shish !`);
+  } else{
+    alert("Bo'sh bo'lishi mumkin emas")
   }
  }
    function newList(){
