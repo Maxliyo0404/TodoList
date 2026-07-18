@@ -19,11 +19,11 @@ const  task = "TodoListga"
                 case "1":
                     alert("Qoshish");
                     break;
-                case "1":
-                    alert("Qoshish");
+                case "2":
+                    alert("Ko'rish");
                     break;
                 case "1":
-                    alert("Qoshish");
+                    alert("Qosish");
                     break;
                 case "1":
                     alert("Qoshish");
