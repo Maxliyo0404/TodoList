@@ -8,7 +8,9 @@ const tasks = [];
   const taskTitle = prompt("TaskTitle bosgin !");
   if(taskTitle){
     const newTitle = {
-        
+        id:task.length +1,
+        title: taskTitle,
+        completed: false
     }
   }
  }
