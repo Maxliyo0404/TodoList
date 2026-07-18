@@ -17,6 +17,7 @@ const  task = "TodoListga"
             `);
             switch (tanlov){
                 case "1":
+                    alert("Qoshish");
 
             }
         
