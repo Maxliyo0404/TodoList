@@ -34,6 +34,8 @@ const  task = "TodoListga"
                 case "1":
                     alert("Xayr");
                     break;
+                    default:
+                        
                     
 
             }
