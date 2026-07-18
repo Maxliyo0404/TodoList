@@ -22,7 +22,10 @@ const tasks = [];
     if(task.length === 0){
         alert("xatolik");
     } else{
-        let taskList =
+        let taskList = "U sizning taskingiz";
+        for(let i = 0; i < task.length; i++){
+            const task =tasks [i];
+        }
     }
  }
    function newList(){
