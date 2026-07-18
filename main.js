@@ -4,6 +4,7 @@ const  task = "TodoListga"
     alert(`Hush kelibsiz ${task} !`);
  }
    function newList(){
+    let tanlov;
     
    }
  newTodo();
