@@ -35,7 +35,7 @@ const  task = "TodoListga"
                     alert("Xayr");
                     break;
                     default:
-                        
+                        alert("Noto'g'ri tanlov")
                     
 
             }
