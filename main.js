@@ -15,7 +15,10 @@ const  task = "TodoListga"
             5.  Malumotni ko'rish;
             6.  Dasturni yopish;
             `);
-            
+            switch (tanlov){
+                case "1":
+
+            }
         
      }
    }
