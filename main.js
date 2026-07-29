@@ -47,7 +47,7 @@ const tasks = [];
                    addTask();
                     break;
                 case "2":
-                    alert("Ko'rish");
+                   viewTasks();
                     break;
                 case "3":
                     alert("O'zgartirish");
@@ -67,6 +67,8 @@ const tasks = [];
      } while( tanlov !== "6");
    }
  newTodo();
+ newList();
+ newList();
 
 
 
