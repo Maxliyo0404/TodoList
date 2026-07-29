@@ -40,7 +40,7 @@ const tasks = [];
             3.  O'zgartirish;
             4.  O'chirish;
             5.  Malumotni ko'rish;
-            6.  Dasturni yopish;
+          ish;
             `);
             switch (tanlov){
                 case "1":
