@@ -68,7 +68,6 @@ const tasks = [];
    }
  newTodo();
  newList();
- newList();
 
 
 
