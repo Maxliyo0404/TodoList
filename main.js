@@ -15,7 +15,7 @@ const tasks = [];
     task.push(newTitle);
     alert(`Task ${taskTitle} qo'shish !`);
   } else{
-    alert("Bo'sh bo'lishi mumkin emas");
+    alert("");
   }
  }
  const viewTasks = () =>{
