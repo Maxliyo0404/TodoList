@@ -37,7 +37,7 @@ const tasks = [];
             Tanlov qiling;
             1.  Qo'shish;
             2.  Ko'rish;
-     
+            3.  O'zgartirish;
             4.  O'chirish;
             5.  Malumotni ko'rish;
             6.  Dasturni yopish;
