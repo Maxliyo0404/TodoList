@@ -33,7 +33,7 @@ const tasks = [];
    function newList(){
     let tanlov;
      do{
-        tanlov = prompt(`Hush kelibsan ${task};
+        tanlov = prompt(`Hush kelibsan ${task}
             Tanlov qiling;
             1.  Qo'shish;
             2.  Ko'rish;
